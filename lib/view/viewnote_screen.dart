@@ -24,7 +24,7 @@ class _ViewnoteScreenState extends State<ViewnoteScreen> {
     return Scaffold(
       appBar: AppBar(
         automaticallyImplyLeading: false,
-        backgroundColor: Colors.white,
+        backgroundColor: Colors.red,
         title: Text(
           "Keep Note",
           style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
